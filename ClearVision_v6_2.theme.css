@@ -16,8 +16,8 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #9a9a9a ; /* main accent color (hex, rgb or hsl) */
-  --hover-color: #878787 ; /* hover accent color (hex, rgb or hsl) */
+  --main-color: #9a9a9a; /* main accent color (hex, rgb or hsl) */
+  --hover-color: #878787; /* hover accent color (hex, rgb or hsl) */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) */
   --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
